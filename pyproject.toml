@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dcompressee"
-version = "0.1.0"
+version = "1.0.0"
 description = "A small library to return temporary decompressed files when one needs them."
 authors = ["Anders Goncalves da Silva <andersgs@gmail.com>"]
 readme = "README.md"
