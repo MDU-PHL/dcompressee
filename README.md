@@ -1,5 +1,10 @@
 # `dcompressee`: a small Python library to generate temporarirly decompressed files
 
+<div align="center">
+  <img alt="PyPI" src="https://img.shields.io/pypi/v/dcompressee">
+  <a href="https://zenodo.org/badge/latestdoi/617237911"><img src="https://zenodo.org/badge/617237911.svg" alt="DOI"></a>
+</div>
+
 ## Background
 
 A common use case in Bioinformatics is having to temporarily decompress a file in
